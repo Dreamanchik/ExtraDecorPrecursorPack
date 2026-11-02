@@ -40,7 +40,8 @@
     <Folder Include="Modded\TheRedPlague\Misc\" />
     <Folder Include="Modded\TheRedPlague\Structure\" />
     <Folder Include="Vanilla\Buildables\Container\" />
-    <Folder Include="Vanilla\Buildables\Misc\" />
     <Folder Include="Vanilla\Buildables\Structure\" />
+    <Folder Include="Vanilla\Buildables\Light\" />
+    <Folder Include="Vanilla\Buildables\Terminal\" />
   </ItemGroup>
 </Project>
