@@ -9,7 +9,7 @@ using System.IO;
 using System.Reflection;
 using UnityEngine;
 
-namespace ExtraDecorPrecursorPack.Vanilla.Buildables.Misc
+namespace ExtraDecorPrecursorPack.Vanilla.Buildables.Container
 {
     public static class BuildablePrecursorShelves
     {
