@@ -11,7 +11,7 @@ using UnityEngine;
 
 namespace ExtraDecorPrecursorPack.Vanilla.Buildables.Container
 {
-    public static class BuildablePrecursorWarper
+    public static class BuildablePrecursorActivatedLightBox1
     {
         static string ID = "BuildablePrecursorWarper";
         public static string iconPath = Path.Combine(
