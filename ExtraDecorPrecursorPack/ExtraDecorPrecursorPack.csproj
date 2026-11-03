@@ -39,7 +39,6 @@
     <Folder Include="Modded\TheRedPlague\Container\" />
     <Folder Include="Modded\TheRedPlague\Misc\" />
     <Folder Include="Modded\TheRedPlague\Structure\" />
-    <Folder Include="Vanilla\Buildables\Container\" />
     <Folder Include="Vanilla\Buildables\Structure\" />
     <Folder Include="Vanilla\Buildables\Light\" />
     <Folder Include="Vanilla\Buildables\Terminal\" />
