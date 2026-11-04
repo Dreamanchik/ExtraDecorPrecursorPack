@@ -39,6 +39,5 @@
     <Folder Include="Modded\TheRedPlague\Container\" />
     <Folder Include="Modded\TheRedPlague\Misc\" />
     <Folder Include="Modded\TheRedPlague\Structure\" />
-    <Folder Include="Vanilla\Buildables\Structure\" />
   </ItemGroup>
 </Project>
