@@ -34,7 +34,7 @@ namespace ExtraDecorPrecursorPack.Vanilla.Buildables.Structure
             var clone = new CloneTemplate(Info, "5ca9d34d-3b1e-46b7-9660-ab3156db7d28");
             clone.ModifyPrefab += obj =>
             {
-                ConstructableFlags constructableFlags = ConstructableFlags.Inside | ConstructableFlags.Ground | ConstructableFlags.Rotatable | ConstructableFlags.Outside | ConstructableFlags.AllowedOnConstructable;
+                ConstructableFlags constructableFlags = ConstructableFlags.Inside | ConstructableFlags.Wall | ConstructableFlags.Rotatable | ConstructableFlags.Outside | ConstructableFlags.AllowedOnConstructable;
 
                 GameObject gameObject = obj.transform.Find("precursor_gun_Entry_room").gameObject;
                 GameObject gameObject2 = gameObject.transform.Find("Precursor_Gun_Entry_wall_05").gameObject;

@@ -34,7 +34,7 @@ namespace ExtraDecorPrecursorPack.Vanilla.Buildables.Structure
             var clone = new CloneTemplate(Info, "9ea12567-c0b3-44b8-8ce2-f2262487a804");
             clone.ModifyPrefab += obj =>
             {
-                ConstructableFlags constructableFlags = ConstructableFlags.Inside | ConstructableFlags.Ground | ConstructableFlags.Rotatable | ConstructableFlags.Outside | ConstructableFlags.AllowedOnConstructable;
+                ConstructableFlags constructableFlags = ConstructableFlags.Inside | ConstructableFlags.Ground | ConstructableFlags.Ceiling | ConstructableFlags.Rotatable | ConstructableFlags.Outside | ConstructableFlags.AllowedOnConstructable;
 
                 GameObject gameObject = obj.transform.Find("Precursor_prison_interior_box_01").gameObject;
                 gameObject.transform.localScale = new Vector3(0.204f, 0.204f, 0.12f);
