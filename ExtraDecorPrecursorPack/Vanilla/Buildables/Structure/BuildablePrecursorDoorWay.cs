@@ -11,7 +11,7 @@ using UnityEngine;
 
 namespace ExtraDecorPrecursorPack.Vanilla.Buildables.Structure
 {
-    public static class BuildablePrecursorDoorWay
+    public static class BuildablePrecursorAlienBuildingBlock
     {
         static string ID = "BuildablePrecursorDoorWay";
         public static string iconPath = Path.Combine(

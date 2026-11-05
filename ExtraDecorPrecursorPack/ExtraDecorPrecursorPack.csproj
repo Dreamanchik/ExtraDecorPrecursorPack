@@ -30,14 +30,20 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Modded\ReturnOfTheAncients\Container\" />
-    <Folder Include="Modded\ReturnOfTheAncients\Misc\" />
-    <Folder Include="Modded\ReturnOfTheAncients\Structure\" />
-    <Folder Include="Modded\ThePrototypeExpansion\Container\" />
-    <Folder Include="Modded\ThePrototypeExpansion\Misc\" />
-    <Folder Include="Modded\ThePrototypeExpansion\Structure\" />
-    <Folder Include="Modded\TheRedPlague\Container\" />
-    <Folder Include="Modded\TheRedPlague\Misc\" />
-    <Folder Include="Modded\TheRedPlague\Structure\" />
+    <Folder Include="Modded\ReturnOfTheAncients\Buildables\Container\" />
+    <Folder Include="Modded\ReturnOfTheAncients\Buildables\Light\" />
+    <Folder Include="Modded\ReturnOfTheAncients\Buildables\Misc\" />
+    <Folder Include="Modded\ReturnOfTheAncients\Buildables\Structure\" />
+    <Folder Include="Modded\ReturnOfTheAncients\Buildables\Terminal\" />
+    <Folder Include="Modded\ReturnOfTheAncients\Buildables\" />
+    <Folder Include="Modded\ThePrototypeExpansion\Buildables\Structure\" />
+    <Folder Include="Modded\ThePrototypeExpansion\Buildables\Light\" />
+    <Folder Include="Modded\ThePrototypeExpansion\Buildables\Terminal\" />
+    <Folder Include="Modded\TheRedPlague\Buildables\Container\" />
+    <Folder Include="Modded\TheRedPlague\Buildables\Light\" />
+    <Folder Include="Modded\TheRedPlague\Buildables\Misc\" />
+    <Folder Include="Modded\TheRedPlague\Buildables\Structure\" />
+    <Folder Include="Modded\TheRedPlague\Buildables\Terminal\" />
+    <Folder Include="Modded\TheRedPlague\Buildables\" />
   </ItemGroup>
 </Project>
