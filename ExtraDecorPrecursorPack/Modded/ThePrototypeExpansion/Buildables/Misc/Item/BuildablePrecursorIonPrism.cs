@@ -42,7 +42,7 @@ namespace ExtraDecorPrecursorPack.Modded.Buildables.Misc.Item
                 component.useGravity = false;
                 component.isKinematic = true;
                 SkyApplier component2 = obj.GetComponent<SkyApplier>();
-                component2.anchorSky = 3;
+                component2.anchorSky = Skies.BaseInterior;
                 gameObject.transform.localPosition = new Vector3(0f, 0.1f, 0f);
                 gameObject.transform.localEulerAngles = new Vector3(0f, 0f, 68f);
 

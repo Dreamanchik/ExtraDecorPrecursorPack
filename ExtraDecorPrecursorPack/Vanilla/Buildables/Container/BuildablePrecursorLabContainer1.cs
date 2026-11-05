@@ -11,7 +11,7 @@ using UnityEngine;
 
 namespace ExtraDecorPrecursorPack.Vanilla.Buildables.Container
 {
-    public static class BuildablePrecursorDoorWay
+    public static class BuildablePrecursorLabContainer1
     {
         static string ID = "BuildablePrecursorLabContainer1";
         public static string iconPath = Path.Combine(
